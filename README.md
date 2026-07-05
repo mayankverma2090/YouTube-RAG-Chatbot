@@ -4,6 +4,9 @@ https://youtube-rag-chatbot-mmd65wv7gwf6qefqhraa7h.streamlit.app
 # 🎥 YouTube RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot built using LangChain, Hugging Face Embeddings, FAISS, Groq LLM, and Streamlit. This application allows users to ask questions about any YouTube video by simply providing the video URL.
+## 📸 Project Screenshot
+
+![YouTube RAG Chatbot](https://github.com/USERNAME/REPO_NAME/raw/main/screenshot.png)
 
 ## 🚀 Features
 
